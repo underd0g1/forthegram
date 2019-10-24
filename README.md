@@ -1,6 +1,8 @@
 # doitforthegram
 A selenium based instagram photo liker built for dependibility and light usage within your own feed. 
 
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 #Requirements
 
 Python version 3.xx or higher
@@ -13,9 +15,9 @@ Firefox, Chrome, Phantom
 
 I might be adding a bash script with the package in order to make sure the rightdependecies are installed for linux. 
 
-'fufill dependecy requirements 
-'navigate to directory that contains the .py file
-'launch using python3 liker.py
+fufill dependecy requirements 
+navigate to directory that contains the .py file
+launch using python3 liker.py
 
 #Notes
 
