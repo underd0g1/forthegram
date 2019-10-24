@@ -1,7 +1,8 @@
-# doitforthegram
+# #doitforthegram
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![HitCount](http://hits.dwyl.io/under0g1/forthegram.svg)](http://hits.dwyl.io/under0g1/forthegram)
+
 A selenium based instagram photo liker built for dependibility and light usage within your own feed. 
 
 
@@ -18,9 +19,9 @@ Firefox, Chrome, Phantom
 
 I might be adding a bash script with the package in order to make sure the rightdependecies are installed for linux. 
 
-fufill dependecy requirements 
-navigate to directory that contains the .py file
-launch using python3 liker.py
+  fufill dependecy requirements 
+  navigate to directory that contains the .py file
+  launch using python3 liker.py
 
 #Notes
 
