@@ -9,11 +9,11 @@
 
 ## Requirements
 
--[] Python version 3.xx or higher
--[] geckodriver
--[] Current Instagram account (In Good Standing)
--[] Selenium (webdriver) 
--[] Firefox, Chrome, Phantom
+- Python version 3.xx or higher
+- geckodriver
+- Current Instagram account (In Good Standing)
+- Selenium (webdriver) 
+- Firefox, Chrome, Phantom
 
 ## Installation
 
@@ -25,7 +25,7 @@ I might be adding a bash script with the package in order to make sure the right
 
 ## Notes
 
-> This was developed using linux with the firefox webdriver. If you are having problems running this script, check your > dependencies, PATHS, and versions. If you try to no avail, modify the script to your needs! 
+> This was developed using linux with the firefox webdriver. If you are having problems running this script, check your  dependencies, PATHS, and versions. If you try to no avail, modify the script to your needs! 
 
-> Forthegram was created soley to automate the liking of all the pictures on my instagram feed since it was taking too much time  out of my day. This is not built to get followers, comment, or scrape any data. however, you can fork this if youwant to repurpose it, or just give me some pointers on how to do this better! 
+Forthegram was created soley to automate the liking of all the pictures on my instagram feed since it was taking too much time  out of my day. This is not built to get followers, comment, or scrape any data. however, you can fork this if youwant to repurpose it, or just give me some pointers on how to do this better! 
 
